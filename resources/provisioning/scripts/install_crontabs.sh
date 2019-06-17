@@ -1,0 +1,1 @@
+sudo crontab /resources/provisioning/whmcs/crontab;

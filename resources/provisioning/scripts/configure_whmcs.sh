@@ -1,0 +1,1 @@
+sudo php /vagrant/resources/provisioning/scripts/configure_whmcs.php
