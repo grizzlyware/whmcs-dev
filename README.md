@@ -20,7 +20,7 @@ A Vagrant box, customised for WHMCS development, built on Ubuntu 18.04 LTS (Bion
 2. Move the WHMCS source code into the `public/whmcs` directory, which should contain an `empty` file.
 3. Edit the IP in `Vagrantfile` if you wish
 4. Run `vagrant up`
-5. Head to `192.168.13.3` (or the IP you changed it to)
+5. Head to `192.168.13.37` (or the IP you changed it to)
 6. Follow the on-screen instructions
 7. Enjoy, we hope that's eased the development burden!
 
