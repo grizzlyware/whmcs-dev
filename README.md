@@ -36,7 +36,7 @@ You can create a line in your systems hosts file to use a hostname instead of th
 The default installation path is `/public/whmcs` but you can move that, or create additional installations as you see fit.
 
 ### Cron job
-You can remove the cron or change it's frequency as you see fit, just `vagrant-ssh` into the box and run `sudo crontab -e` to edit it.
+You can remove the cron or change it's frequency as you see fit, just `vagrant-ssh` into the box and run `crontab -e` to edit it.
 
 ## License
 Copyright 2019 Grizzlyware Ltd
