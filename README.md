@@ -1,5 +1,7 @@
 <p align="center"><a href="https://grizzlyware.io" title="Grizzlyware Ltd"><img src="https://grizzlyware.io/assets/images/grizzly-logo.svg" alt="drawing" width="300" /></a></p>
 
+<p align="center"><img src="https://raw.githubusercontent.com/grizzlyware/whmcs-dev/master/hz_bart_meme.jpg" alt="drawing" /></p>
+
 # WHMCS Development Vagrant Box
 A Vagrant box, customised for WHMCS development, built on Ubuntu 18.04 LTS (Bionic Beaver). It sets up all the stuff you're dreading.
 
