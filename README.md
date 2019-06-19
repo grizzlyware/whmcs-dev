@@ -40,7 +40,7 @@ The default installation path is `/public/whmcs` but you can move that, or creat
 ### Cron job
 You can remove the cron or change it's frequency as you see fit, just `vagrant-ssh` into the box and run `crontab -e` to edit it.
 
-## License
+## MIT License
 Copyright 2019 Grizzlyware Ltd
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
