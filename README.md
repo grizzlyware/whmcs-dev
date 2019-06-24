@@ -40,6 +40,9 @@ The default installation path is `/public/whmcs` but you can move that, or creat
 ### Cron job
 You can remove the cron or change it's frequency as you see fit, just `vagrant-ssh` into the box and run `crontab -e` to edit it.
 
+### Use a WHMCS helper library
+[Salmon for WHMCS](https://github.com/grizzlyware/salmon-whmcs) extends many of the default models with extended functionality, making it easier to query the Eloquent models. It also contains an array of helper classes to make common tasks in WHMCS simpler and easier to do.
+
 ## MIT License
 Copyright 2019 Grizzlyware Ltd
 
