@@ -1,4 +1,4 @@
-<p align="center"><a href="https://grizzlyware.io" title="Grizzlyware Ltd"><img src="https://grizzlyware.io/assets/images/grizzly-logo.svg" alt="drawing" width="300" /></a></p>
+<p align="center"><a href="https://grizzlyware.io" title="Grizzlyware Ltd"><img src="https://www.grizzlyware.com/assets/images/brand/grizzlyware-logo.svg" alt="drawing" width="300" /></a></p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/grizzlyware/whmcs-dev/master/hz_bart_meme.jpg" alt="drawing" /></p>
 
