@@ -327,4 +327,4 @@ Example:
 
 ic24.phperr.ignore = E_NOTICE | E_DEPRECATED
 
-(c) ionCube Ltd. 2019
+(c) ionCube Ltd. 2020
