@@ -3,12 +3,12 @@
 <p align="center"><img src="https://raw.githubusercontent.com/grizzlyware/whmcs-dev/master/hz_bart_meme.jpg" alt="drawing" /></p>
 
 # WHMCS Development Vagrant Box
-A Vagrant box, customised for WHMCS development, built on Ubuntu 18.04 LTS (Bionic Beaver). It sets up all the stuff you're dreading.
+A Vagrant box, customised for WHMCS development, built on Ubuntu 20.04 LTS (Focal Fossa). It sets up all the stuff you're dreading.
 
 ## Features
-* PHP 7.2
-* MySQL 5.7
-* ionCube Loaders v10.3.5
+* PHP 7.4
+* MySQL 8.0
+* ionCube Loaders v10.4.5
 * Cron support (every 5 minutes)
 
 ## Prerequisites
@@ -44,7 +44,7 @@ You can remove the cron or change it's frequency as you see fit, just `vagrant-s
 [Salmon for WHMCS](https://github.com/grizzlyware/salmon-whmcs) extends many of the default models with extended functionality, making it easier to query the Eloquent models. It also contains an array of helper classes to make common tasks in WHMCS simpler and easier to do.
 
 ## MIT License
-Copyright 2019 Grizzlyware Ltd
+Copyright Grizzlyware Ltd
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
